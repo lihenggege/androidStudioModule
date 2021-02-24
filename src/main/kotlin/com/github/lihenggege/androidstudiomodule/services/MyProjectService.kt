@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.lihenggege.androidstudiomodule.services
 
+import com.github.lihenggege.androidstudiomodule.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
